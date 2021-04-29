@@ -1,0 +1,7 @@
+region = "nyc1"
+do_token = "xyz"
+qtd_hosts = "3"
+droplet-type = "s-2vcpu-4gb"
+droplet-image = "ubuntu-18-04-x64"
+private_key_path = "/my/key/path"
+public_key_path =  "/my/key/path"
